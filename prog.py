@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 
 
-# changed code
 def printMany(word:str,n:int):
   """ I print word n times"""
-  for i in word:
+  for i in range(n):
     print(word)
 
 
