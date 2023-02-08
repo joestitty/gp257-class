@@ -1,3 +1,6 @@
 [submodule "class-notebooks"]
 	path = class-notebooks
 	url = http://zapad.stanford.edu/GP257/labs-2023/class-notebooks.git
+
+[submodule "slurm"]
+	path = slurm
