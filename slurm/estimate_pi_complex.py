@@ -10,8 +10,8 @@ trial_num = 1000 # number of trials to estimate pi
 num_of_successes = 0 # start the count for number of trials that meet the criteria
 
 for i in range(trial_num):
-    x = np.random.normal(0,1)
-    y = np.random.normal(0,1)
+    x = np.random.random()
+    y = np.random.random()
     if (x**2) + (y**2) <=1: # sum of squares
         num_of_successes += 1
         
