@@ -1,4 +1,4 @@
-**NOTE TO GRADER: The connection issue for google cloud was never resolved after emailing Bob. Thus, this code was run for local and nfs storage comparisons only.**
+**NOTE TO GRADER: The connection issue for google cloud was never resolved. Thus, this code was run for local and nfs storage comparisons only.**
 # io-lab
 
 
